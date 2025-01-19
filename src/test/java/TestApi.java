@@ -4,7 +4,7 @@ import org.json.JSONObject;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class ApiTest {
+public class TestApi {
 
     @Test
     public void getRequest() {
